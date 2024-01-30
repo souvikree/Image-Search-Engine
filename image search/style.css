@@ -46,7 +46,10 @@ form input{
     color: #fff;
     font-size: 18px;
     padding: 0 30px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
 }
+
 form button{
     padding:0 40px;
     height: 100%;
