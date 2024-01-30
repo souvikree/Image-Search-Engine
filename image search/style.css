@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -8,6 +12,7 @@
 body{
     background: #312e81;
     color: #fff;
+    background-image: url("https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg");
     
 
 }
@@ -17,9 +22,10 @@ p{
     font-weight: 600;
     -webkit-font-smoothing: auto;
     -moz-osx-font-smoothing: auto;
-    font-size: 1.5rem; /* 24px */
+    font-size: 3rem; /* 24px */
     line-height: 2rem;
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
+    font-family: 'Honk', system-ui;
 }
 form{
     width: 90%;
